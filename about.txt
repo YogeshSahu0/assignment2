@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second change on file
+=======
+first time change 
+>>>>>>> 095a7d6 (second commit)
